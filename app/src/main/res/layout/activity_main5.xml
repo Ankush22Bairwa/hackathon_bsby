@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main5"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    tools:layout_editor_absoluteY="81dp"
+    tools:layout_editor_absoluteX="50dp"
+    android:background="#ffcccc"
+    tools:context="com.example.ankush.bsbyhospitals.Main5Activity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:text="
+S.N    Hospitals\n
+ 1   J.K.LON MOTHER CHILD HOSPITAL \n
+ 2   MAHARAO BHIM SINGH HOSPITAL\n
+ 3   NEW HOSPITAL MEDICAL COLLEGE\n
+ 4   RAMPURA SATELLITE DISTRICT HOSPITAL \n
+ 5   CHC ITAWA KOTA\n
+ 6   CHC KAITHUN KOTA\n
+ 7   CHC RAMGANJMANDI KOTA\n
+ 8   CHC SANGOD KOTA\n
+ 9   CHC SULTANPUR KOTA\n
+ 10   ACHARYA CHILDREN HOSPITAL\n
+ 11   AGARWAL EYE AND SKIN HOSPITAL\n
+ 12   ANANDAM ENT HOSPITAL\n
+ 13   ANITA EYE HOSPITAL RETINAL CENTRE\n
+ 14   ARIHANT HOSPITAL\n
+ 15   BHARAT VIKAS PARISHAD \n
+ 16   BIRLA EYE AND CHILD HOSPITAL\n
+ 17   CHANDNI HOSPITAL\n
+ 18   D D EYE INSTITUTE KOTA\n
+ 19   DD NETRA SANSTHAN KOTA\n
+ 20   GASTROCARE HOSPITAL\n
+ 21   GOYAL ENDOSCOPY SURGERY RESEARCH CENTRE\n
+ 22   HOLY FAMILY HOSPITAL\n
+ 23   JAIN SURGICAL HOSPITAL\n
+"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="15dp"
+            />
+
+    </ScrollView>
+
+</RelativeLayout>

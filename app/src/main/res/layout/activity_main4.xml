@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main4"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    tools:layout_editor_absoluteY="81dp"
+    tools:layout_editor_absoluteX="50dp"
+    android:background="#cc9900"
+    tools:context="com.example.ankush.bsbyhospitals.Main4Activity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:text="
+S.N   Hospital Name\n
+ 1    GOVT BANGUR DIST HOSPITAL\n
+ 2    ACHARYA SHREE RAGHUNATH SMRITI JAIN GOVT. HOSPITAL SOJAT CITY PALI\n
+ 3    CHC BAGRI PALI\n
+ 4    CHC BALI PALI\n
+ 5    CHC BERA PALI\n
+ 6    CHC DESURI PALI\n
+ 7    CHC JAITARAN PALI\n
+ 8    CHC KHARCHI PALI\n
+ 9    CHC KHOD PALI\n
+ 10   CHC KOSELAV PALI\n
+ 11   CHC KUSHALPURA PALI\n
+ 12   CHC NADOL PALI\n
+ 13   CHC NIMAJ PALI\n
+ 14   CHC RAAS PALI\n
+ 15   CHC RAIPUR PALI\n
+ 16   CHC RANI PALI\n
+ 17   CHC ROHAT PALI\n
+ 18   CHC SADRI PALI\n
+ 19   CHC SANDERAO PALI\n
+ 20   CHC SOJATROAD PALI\n
+ 21   CHC SUMERPUR PALI\n
+ 22   CHC TAKHTGARH PALI\n
+ 23   ASG HOSPITAL PVT LTD\n
+ 24   BHAGWAN MAHAVIR HOSPITAL\n
+ 25   DR ANITA RAJPUROHIT HOSPITAL SAMARPAN\n
+ 26   GOYAL EYE HOSPITAL AND RESEARCH CENTER\n
+ 27   MEWAR HOSPITALS PVT LTD\n
+ 28   NEW MAHAVIR HOSPITAL\n\n
+ 29   OM HOSPITAL\n
+ 30   ROSE HOSPITAL N FERTILITY RESEARCH CENTR\n
+ 31   SAGAR HOSPITAL N RESEARCH CENTRE\n
+ 32   SAPTGIRISHWAR HEART AND MEDICAL HOSPITAL\n
+ 33   SHRADHA HOSPITAL AND MULTISPECIALITY\n
+ 34   SHREE RAM HOSPITAL\n
+ 35   SHRI RAM SUPER SPECIALITY SURGICAL CENTRE PVT LTD\n
+"
+            android:textColor="#000"
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="15dp"
+            />
+
+    </ScrollView>
+
+</RelativeLayout>

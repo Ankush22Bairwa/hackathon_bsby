@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+
+    tools:context="com.example.ankush.bsbyhospitals.Main2Activity">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true">
+        <TextView
+            android:text="
+S.No   Hospital Name\n
+
+1.     JAWAHAR LAL NEHRU HOSPITAL\n
+2.     RAJKIYA MAHILA CHIKITSALAYA\n
+3.     GOVT AMRITKAUR HOSPITAL BEAWER\n
+4.     GOVT SATELLITE HOSPITAL\n
+5.     GOVERNMENT SUB DIVISION HOSPITAL\n
+6.     YAGYA NARAYAN HOSPITAL AJMER\n
+7.     CHC ARAIN\n
+8.     CHC BHINAI\n
+9.     CHC MASUDA\n
+10.    CHC PISANGAN\n
+11.    CHC VIJAYNAGAR AJMER\n
+12.    ANAND MULTISPECIALITY HOSPITAL\n
+13.    DEEPMALA PAGARANI HOSPITAL\n
+14.    DR K.EYE CARE RESEARCH CENTRE PVT\n 
+15.    GHEESIBAI MEMORIAL MITTAL HOSPITAL\n
+16.    JMD HOSPITAL N RESEARCH CENTRE\n
+17.    KSHETRAPAL HOSPITAL MULTI SPEC\n
+18.    MAVENS HOSPITAL\n
+19.    MEWAR HOSPITAL PVT LTD AJMER\n
+20.    PUSHPA CHANDAK MEMORIAL MULTISPEC\n
+21.    RAM KRISHAN HOSPITAL\n
+22.    RATHI HOSPITAL\n
+23.    S M S HOSPITAL \n
+24.    SHREE PRAGYA KUNDAN VALLABH CHIKITSALYA\n 
+25.    SHREE RANA HOSPITAL N CHARITABLE MEDICAL\n
+26.    ST FRANCIS HOSPITAL\n"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView"
+            android:textSize="15dp"
+            />
+    </ScrollView>
+
+</RelativeLayout>

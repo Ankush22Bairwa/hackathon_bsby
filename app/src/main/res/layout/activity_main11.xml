@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main11"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    android:background="#cf5"
+    tools:layout_editor_absoluteY="81dp"
+    tools:layout_editor_absoluteX="50dp"
+    tools:context="com.example.ankush.bsbyhospitals.Main11Activity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:text="
+S.N    Hospitals\n
+1     SHRI KARAN JOSHI GOVT DISTT HOSPITAL DAUSA\n
+2     CHC BANDIKUI DAUSA\n
+3     CHC GEEJGARH\n
+4     CHC LALSOT DAUSA\n
+5     CHC MAHUWA DAUSA\n
+6     CHC MANDAWAR DAUSA\n
+7     CHC MANDAWARI\n
+8     CHC RAMGARH PACHWARA\n
+9     BAL GOPAL CHILD HOSPITAL\n
+10    GEETA DEVI MEMORIAL EYE HOSPITAL\n
+11    GOYAL GENERAL DENTAL HOSPITAL RESEARCH CENTRE\n
+12    JAIPUR EYE HOSPITAL\n
+13    KATTA HOSPITAL\n
+14    KAUSHAL MATERNITY HOME N HOSPITAL\n
+15    KHANDELWAL NURSING HOME\n
+16    MADHUR HOSPITAL\n
+17    MALHOTRA HOSPITAL\n
+18    NAVJEEVAN HOSPITAL\n
+19    RAJDHANI HOSPITAL MATERNITY HOME\n
+"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="15dp"
+            />
+
+    </ScrollView>
+</RelativeLayout>

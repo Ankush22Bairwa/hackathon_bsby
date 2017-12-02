@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main7"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    tools:layout_editor_absoluteY="81dp"
+    tools:layout_editor_absoluteX="50dp"
+    android:background="#333"
+    tools:context="com.example.ankush.bsbyhospitals.Main7Activity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:text="
+S.N    Hospitals\n
+1     MAHATMA GANDHI HOSPIAL BHILWARA\n
+2     GOVT SATELITE HOSPITAL SHAHPURA\n
+3     CHC ASIND BHILWARA\n
+4     CHC BADNOR BHILWARA\n
+5     CHC BAGOUR BHILWARA\n
+6     CHC BANERA BHILWARA\n
+7     CHC BIJOLIYAN BHILWARA\n
+8     CHC GANGAPUR BHILWARA\n
+9     CHC GULABPURA BHILWARA\n
+10    CHC HAMIRGARH BHILWARA\n
+11    CHC JAHAZPUR BHILWARA\n
+12    CHC KACHHOLA BHILWARA\n
+13    CHC KAREDA BHILWARA\n
+14    CHC KOSHITHAL BHILWARA\n
+15    CHC KOTDI BHILWARA\n
+16    CHC MANDAL BHILWARA\n
+17    CHC MANDALGARH BHILWARA\n
+18    CHC PANDHER BHILWARA\n
+19    CHC POTLA BHILWARA\n
+20    CHC RAIPUR BHILWARA\n
+21    CHC SAHARA BHILWARA\n
+22    CHC SANGARIYA BHILWARA\n
+23    CHC SUWANA BHILWARA\n
+24    ARIHANT HOSPITAL N RESEARCH SANSTHAN\n
+25    ATISHAY HEART N SUPER SPECIALITY HOSPITAL\n
+26    BAUSAL HOSPITAL\n
+27    BHANSALI HOSPITAL N RESEARCH CENTRE\n
+28    GUPTA HOSPITAL N FERTILITY CENTRE\n
+29    KALYANI EYE HOSPITAL\n
+30    KRISHNA HOSPITAL\n
+"
+            android:textColor="#6cc"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="15dp"
+            />
+
+    </ScrollView>
+
+</RelativeLayout>

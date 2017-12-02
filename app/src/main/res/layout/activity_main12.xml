@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main12"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    tools:layout_editor_absoluteY="81dp"
+    tools:layout_editor_absoluteX="50dp"
+    android:background="#fcf"
+    tools:context="com.example.ankush.bsbyhospitals.Main12Activity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:text="
+S.N    Hospitals\n
+1    MAHARANA BHUPAL GOVT HOSPITAL\n
+2    PANNA DHAYA MAHILA CHIKITSALYA\n
+3    SETH RAMVILASH BHUVALAKA YAKSHMA  AROGYA SADAN BADI\n
+4    SHRI SUNDER SINGH BHANDARI GOVT. SATELLITE HOSPITAL CHANDPOLE UDAIPUR\n
+5    SATELLITE HOSPITAL HIRANMAGRI\n
+6    GOVERNMENT HOSPITAL SALUMBER\n
+7    CHC BADGAON UDAIPUR\n
+8    CHC BEKARIYA UDAIPUR\n
+9    CHC BHINDAR UDAIPUR\n
+10    CHC GINGALA UDAIPUR\n
+11    CHC GOGUNDA UDAIPUR\n
+12    CHC JHADOL (S) UDAIPUR\n
+13    CHC JHADOL (PH) UDAIPUR\n
+14    CHC KANOD\n
+15    CHC KHEMLI UDAIPUR\n
+16    CHC KHERWARA UDAIPUR\n
+17    CHC LASADIYA UDAIPUR\n
+18    CHC MAVLI UDAIPUR\n
+19    CHC MENAR\n
+20    CHC NAI UDAIPUR\n
+21    CHC OGANA UDAIPUR\n
+22    CHC PADRADA UDAIPUR\n
+23    CHC PARSAD UDAIPUR\n
+24    CHC PHALASIYA UDAIPUR\n
+25    CHC RISHABHDEV UDAIPUR\n
+26    CHC SANWAD UDAIPUR\n
+27    CHC SARADA UDAIPUR\n
+28    CHC SEMARI UDAIPUR\n
+29    CHC TIDI UDAIPUR\n
+30    CHC VALLABH NAGAR\n
+31    ALAKH NAYAN MANDIR\n
+32    ARAVALI HOSPITAL\n
+33    ASG HOSPITAL PVT LTD\n
+34    DR CHOUDHARY HOSPITAL MRC PVT LTD\n
+35    GBH GENERAL HOSPITAL \n
+"
+            android:textColor="#f00"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="15dp"
+            />
+
+    </ScrollView>
+</RelativeLayout>

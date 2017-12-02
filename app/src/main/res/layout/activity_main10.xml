@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main10"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    tools:layout_editor_absoluteY="81dp"
+    tools:layout_editor_absoluteX="50dp"
+    android:background="#6f6"
+    tools:context="com.example.ankush.bsbyhospitals.Main10Activity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:text="
+S.N    Hospitals\n
+1     GOVT S K HOSPITAL\n
+2     GENERAL HOSPITAL NEEM KA THANA\n
+3     CHC AJEETGARH SIKAR\n
+4     CHC BESWA SIKAR\n
+5     CHC DANTA SIKAR\n
+6     CHC FATEHPUR SIKAR\n
+7     CHC GUHALA\n
+8     CHC KHACHARIAWAS\n
+9     CHC KHANDELA\n
+10    CHC KHATUSHYAMJI\n
+11    CHC LAXMANGARH\n
+12    CHC PALSANA SIKAR\n
+13    CHC PATAN\n
+14    CHC PIPRALI SIKAR\n
+15    CHC RAMGARH SHEKHAWATI\n
+16    CHC REENGUS\n
+17    CHC SRIMADHOPUR\n
+18    AMAR HOSPITAL N RESEARCH CENTRE\n
+19    ARIHANT HOSPITAL\n
+20    AROGYAM SHRI H N SAXENA NEELAM INFRTI LA\n
+21    BHUMIKA HOSPITAL\n
+22    BINDAL HOSPITAL\n
+23    DHAYAL HOSPITAL RESERCH CENTRE\n
+24    DR S P SINGH NURSINGH HOME\n
+"
+            android:textColor="@color/colorPrimary"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="15dp"
+            />
+
+    </ScrollView>
+
+</RelativeLayout>

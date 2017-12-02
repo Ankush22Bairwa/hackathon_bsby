@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    tools:layout_editor_absoluteY="81dp"
+    tools:layout_editor_absoluteX="50dp"
+    tools:context="com.example.ankush.bsbyhospitals.Main13Activity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:text="
+S.N    Hospitals\n
+1     SAADAT HOSPITAL TONK\n
+2     CHC DEOLI\n
+3     CHC DOONI TONK\n
+4     CHC MALPURA\n
+5     CHC NIWAI TONK\n
+6     CHC PEEPLU\n
+7     CHC UNIARA\n
+8     AGARWAL HOSPITAL\n
+9     AMCURE HOSPITAL  INFERTILITY CENTER\n
+10    ASHISH HOSPITAL\n
+11    CHANDRA BHAN HOSPITAL\n
+12    DR PAREEK ORTHOPAEDIC N TRAUMA CENTER\n
+13    JYOTI KIRAN HOSPITAL\n
+14    KARANI HOSPITAL\n
+15    MAHI HOSPITAL\n
+16    PRECIOUS EYE HOSPITAL\n
+17    REKHA DEVI MEMORIAL HOSPITAL\n
+18    SHRI DAYAL HOSPITAL\n
+19    SHRI MOOLCHAND SURGICAL HOSPITAL \n
+20    SHUBHAM HOSPITAL\n
+21    SUMANS DENTAL HOSPITAL\n
+"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="15dp"
+            />
+
+    </ScrollView>
+</RelativeLayout>

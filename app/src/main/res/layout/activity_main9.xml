@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main9"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    tools:layout_editor_absoluteY="81dp"
+    tools:layout_editor_absoluteX="50dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ddd"
+    tools:context="com.example.ankush.bsbyhospitals.Main9Activity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:text="
+S.N   Hospitals\n
+1     PBSS GENERAL HOSPITAL BUNDI\n
+2     CHC ALOD\n
+3     CHC DEI\n
+4     CHC HINDOLI\n
+5     CHC INDERGARH\n
+6     CHC KAPREN\n
+7     CHC KESHORAIPATAN BUNDI\n
+8     CHC LAKHERI\n
+9     CHC NAINWAN\n
+10    CHC TALEDA BUNDI\n
+11    AGARWAL EYE AND SKIN HOSPITAL\n
+12    ANURAG NURSING HOME THE MULTISPECIALITY HOSPITAL\n
+13    BUNDI HOSPITAL AND RESEARCH CENTRE\n
+14    K K HOSPITAL\n
+15    MAYA HOSPITAL\n
+16    NEEMACH BUNDI EYE HOSPITAL\n
+17    NEEMUCH EYE HOSPITAL\n
+18    SADA SUKHI NURSING HOME\n
+"
+            android:textColor="#cc0099"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="15dp"
+            />
+
+    </ScrollView>
+
+</RelativeLayout>

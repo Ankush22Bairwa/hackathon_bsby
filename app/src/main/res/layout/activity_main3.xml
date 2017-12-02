@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    tools:layout_editor_absoluteY="81dp"
+    tools:layout_editor_absoluteX="50dp"
+    android:background="#ffc"
+    tools:context="com.example.ankush.bsbyhospitals.Main3Activity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:text="
+S.N    Hospital Name\n
+ 1   GANGORI HOSPITAL JAIPUR\n
+ 2   GOVT DENTAL COLLEGE AND HOSPITAL\n
+ 3   GOVT RDBP JAIPURIA HOSPITAL JAIPUR\n
+ 4   HARIBUX KAWATIYA DISTRICT HOSPITAL JAIPUR\n
+ 5   MAHILA HOSPITAL SANGANERI GATE JAIPUR\n
+ 6   MENTAL HOSPITAL JAIPUR\n
+ 7   SIR PADAMPA HEALTH ISTITUTUE\n
+ 8   SMS HOSPITAL JAIPUR\n
+ 9   TB HOSPITAL JAIPUR\n
+ 10  ZENANA HOSPITAL JAIPUR\n
+ 11   GOVT SATELLITE HOSPITAL JAIPUR\n
+ 12   GOVTSETTALITE HOSPIALJAIPUR\n
+ 13   GOVT B D M HOSPITAL KOTPUTLI\n
+ 14   CHC AMER JAIPUR\n
+ 15   CHC BASSI JAIPUR II\n
+ 16   CHC CHOMU JAIPUR I\n
+ 17   CHC DUDU JAIPUR II\n
+ 18   CHC GOVINDGARH JAIPUR\n
+ 19   CHC JAMAWARAMGARH JAIPUR\n
+ 20   CHC KALADERA JAIPUR\n
+ 21   CHC NACHNA\n
+ 22   CHC PAOTA\n
+ 23   CHC SAMBHAR JAIPUR II\n
+ 24   CHC SANGANER JAIPUR II\n
+ 25   CHC SHAHPURA JAIPUR\n
+ 26   CHC VIRATNAGAR JAIPUR\n
+ 27   AAROGYA HOSPITAL\n
+ 28   ABHISHEK HOSPITAL LASER N COS SURG\n
+ 29   ABS HOSPITAL\n
+ 30   ADARSH HOSPITAL\n
+ 31   ADVANCE NEUROLOGY AND SUPERSPECIAL HOSP\n
+ 32   AGARWAL HOSPITAL AND MATERNITY CENTRE\n
+ 33   AGRAWAL DENTAL CARE n IMPLANT CENTRE\n
+ 34   AGRAWAL HEART AND GENERAL HOSPITAL\n
+ 35   AGRAWAL HOSPITAL\n
+"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="15dp"
+            />
+
+    </ScrollView>
+
+</RelativeLayout>

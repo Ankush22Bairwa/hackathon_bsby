@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main6"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    tools:layout_editor_absoluteY="81dp"
+    tools:layout_editor_absoluteX="50dp"
+    tools:context="com.example.ankush.bsbyhospitals.Main6Activity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:text="
+S.N    Hospitals\n
+ 1    KAMLA NEHRU CHEST HOSPITAL\n
+ 2    MATHMA GANDHI HOSPITAL JODHPUR\n
+ 3    MATHURA DAS MATHUR HOSPITAL JODHPUR\n
+ 4    UMAID HOSPITAL JODHPUR\n
+ 5    DISTRICT HOSPITAL PAOTA JODHPUR\n
+ 6    GOVERNMENT HEWSON DISTRICT HOSPITAL MAHILABAGH JODHPUR\n
+ 7    SATELLITE HOSPITAL MANDORE JODHPUR\n
+ 8    SATELLITE HOSPITAL, CHOPASANI HOUSING BOARD, JODHPUR\n
+ 9    SATELLITE HOSPITAL, DIGGI KALA, JODHPUR\n
+ 10   SATELLITE HOSPITAL, PRATAP NAGAR HOUSING BOARD, JODHPUR\n
+ 11   CHC ASOP JODHPUR\n
+ 12   CHC BALESAR\n
+ 13   CHC BANAR JODHPUR\n
+ 14   CHC BAORI JODHPUR\n
+ 15   CHC BAP\n
+ 16   CHC BHOPALGARH JODHPUR\n
+ 17   CHC BILADA JODHPUR\n
+ 18   CHC BORUNDA\n
+ 19   CHC DHUNDHARA JODHPUR\n
+ 20   CHC FALODI JODHPUR\n
+ 21   CHC JHANWAR JODHPUR\n
+ 22   CHC LUNI JODHPUR\n
+ 23   CHC MATHANIYA JODHPUR\n
+ 24   CHC OSIYA JODHPUR\n
+ 25   CHC PIPARCITY JODHPUR\n
+ 26   CHC SALAWASJODHPUR\n
+ 27   ASG HOSPITAL PVT LTD\n
+"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="15dp"
+            />
+
+    </ScrollView>
+
+</RelativeLayout>

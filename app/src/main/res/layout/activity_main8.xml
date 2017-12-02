@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main8"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    android:background="#cfc"
+    tools:layout_editor_absoluteY="81dp"
+    tools:layout_editor_absoluteX="50dp"
+    tools:context="com.example.ankush.bsbyhospitals.Main8Activity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:text="
+S.N    Hospitals\n
+1     ACHARYA TULSI REGIONAL CANCER CENTER BIKANER\n
+2     EYE DENTAL AND ENT HOSPITAL BIKANER\n
+3     MENTAL HOSPITAL BIKANER\n
+4     PBM MAHILA HOSPITAL BIKANER\n
+5     SHISHU HOSPITAL BIKANER\n
+6     THE SUPERINTENDENT ASSOCIATED GROUP OF PBM HOSPITALS, BIKANER\n
+7     YAKSH N VAKSH ROG HOSPITAL\n
+8     SATELLITE DISTRICT HOSPITAL BIKANER\n
+9     CHC BAJJU BIKANER\n
+10    CHC DESHNOKE \n
+11    CHC DUNGARGARH BIKANER\n
+12    CHC GAJNER BIKANER\n
+13    CHC JASRASAR BIKANER\n
+14    CHC KHAJUWALA BIKANER\n
+15    CHC KOLAYAT BIKANER\n
+16    CHC LOONKARANSAR BIKANER\n
+17    CHC MAHAJAN BIKANER\n
+18    CHC MOMASAR BIKANER\n
+19    CHC NAPASAR\n
+20    CHC NOKHA BIKANER\n
+21    CHC PANCHU BIKANER\n
+22   AROGYAM MULTI SPECIALITY HOSPITAL\n
+23    ASG HOSPITAL PVT LTD\n
+24    BALAJI HOSPITAL N RESEARCH CENTRE\n
+25    DR TANVEER MALAWAT HOSPITAL\n
+"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="15dp"
+            />
+
+    </ScrollView>
+
+</RelativeLayout>
